@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a recent Computer Science graduate with a focus on full-stack development using the **MERN stack**, combined with hands-on experience integrating **AI/ML** into production-style applications — including RAG pipelines, federated learning, and generative AI. I co-authored an **IEEE publication** on cyberbullying prevention using Generative AI, and I'm currently seeking full-stack developer or junior software engineer roles where I can contribute from day one.
+I'm a recent Computer Science graduate with a focus on full-stack development using the **MERN stack**, combined with hands-on experience integrating **AI/ML** into production-style applications — including RAG pipelines, federated learning, and generative AI.
 
 - 🎯 **Looking for:** Full-Stack Developer / Junior SDE roles (Fresher)
 - 🧠 **Interests:** Web Development, Applied AI/ML, 
