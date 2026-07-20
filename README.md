@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer (MERN)** · **Fresher — Batch of 2026** · **AI/ML Enthusiast**
 
-📍India &nbsp;|&nbsp; 🎓 SRMIST, KTR (CGPA: 8.54) &nbsp;|&nbsp;
+📍India &nbsp;|&nbsp; 🎓 SRMIST, KTR &nbsp;|&nbsp;
 📧 ajelmathew04@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ajel-mathew-41544a27a/) &nbsp;|&nbsp; 🌐 [Portfolio](https://am-portfolio-seven.vercel.app/)
 
 ## 👨‍💻 About Me
